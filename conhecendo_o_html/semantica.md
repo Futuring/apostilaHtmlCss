@@ -1,0 +1,5 @@
+## Semântica
+
+O que exatamente é semântica? [Semântica dentro de HTML](http://boagworld.com/dev/semantic-code-what-why-how/) é a prática de dar significado ao conteúdo da página estruturando a mesma usando os elementos adequados. Código semântico descreve a importância do conteúdo de uma página, independentemente do estilo ou aparência do que conteúdo. Existem várias vantagens de se utilizar elementos semânticos, permitindo que computadores, leitores de tela, motores de busca e outros dispositivos de leitura compreendam adequadamente o conteúdo em uma página web. Além disso, o HTML semântico é mais fácil de gerenciar e trabalhar, pois mostra claramente o que é cada parte do conteúdo.
+
+Seguindo em frente, à medida que novos elementos são introduzidos, vamos falar sobre o que os elementos realmente significam e o tipo de conteúdo que melhor representam. Antes de fazer isso, porém, vamos olhar para dois elementos, `<div>` e `<span>` que na verdade não possuem qualquer valor semântico. Eles existem apenas para fins de estilo.
